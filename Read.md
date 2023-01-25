@@ -1,0 +1,1 @@
+how to message a potential client and convince the company to make develop a website, alongside listing out the advantages, and features a website need to have to range best on google and other search platform
