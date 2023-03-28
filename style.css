@@ -264,6 +264,7 @@ button {
     justify-content: space-between;
     width: 90%;
     gap: 40px;
+    flex-wrap: wrap;
 }
 .content-imgs img { 
     max-width: 158.78px;
